@@ -1,0 +1,78 @@
+Signature-Version: 1.0
+Created-By: NP
+SHA1-Digest-Manifest: GwXqHhDm0N7hEQsYhSmoggKywmU=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: AUUhe0T0ZWKXQHC2QDxSQ4Bahjw=
+
+Name: MitmProxy/burpsuite-ca.crt
+SHA1-Digest: K4Ccr06X7Ri1xFxwWz3ZF/wpyeU=
+
+Name: MitmProxy/charles-ssl-proxying.pem
+SHA1-Digest: 6YYGzI4XZFI5F5GlFj52P+/A+ys=
+
+Name: MitmProxy/fiddler-root-cert.cer
+SHA1-Digest: u5oIhax550QEYgvmU9TqnqEbTQY=
+
+Name: MitmProxy/mitmproxy-ca-cert.pem
+SHA1-Digest: 1SRAeNLydtsVGaB3IRB0PpF3NPY=
+
+Name: SSL-Bypass/pinning
+SHA1-Digest: 7S/c9Ky3zQ5XeuKDYohxQ9xHgsQ=
+
+Name: SSL-Bypass/ssl
+SHA1-Digest: zVkCGUNCb2DGayMvUdPf5mr60Fo=
+
+Name: assets/protected_by_np/ApkDex2CPro_4dfe2cdc21b3463fa5c4f562d5502
+ 703.txt
+SHA1-Digest: x277kWDsfUxhJkbh++sBhX4nGLA=
+
+Name: classes.dex
+SHA1-Digest: nQixdvaKl7fVenqM8OvQ4etbZdc=
+
+Name: classes2.dex
+SHA1-Digest: albZObylfsJpIu3HZL4Pvi07fHI=
+
+Name: lib/arm64-v8a/libconscrypt_jni.so
+SHA1-Digest: GeHA6TedeNq2A/KB+C9cPed+aL4=
+
+Name: lib/arm64-v8a/libcrashlytics.so
+SHA1-Digest: IgI5rkr+6IByM3VZsOOE+989UOs=
+
+Name: lib/arm64-v8a/libmdk.so
+SHA1-Digest: WJZawoCsImH2AwpEAyRmHjBDMtw=
+
+Name: lib/arm64-v8a/libn8x3k7.so
+SHA1-Digest: SN6vULFr18xpbjl/LtQ+vIy+LsA=
+
+Name: lib/arm64-v8a/libspake2.so
+SHA1-Digest: 02A4n026rQkUPNJY5P2uzxgbeTI=
+
+Name: lib/armeabi-v7a/libconscrypt_jni.so
+SHA1-Digest: XZ12KIRvhaXMEHgfAnQMhkLDmc0=
+
+Name: lib/armeabi-v7a/libcrashlytics.so
+SHA1-Digest: tBXX7G0y5wx6grGfmfPIkeD/IE0=
+
+Name: lib/armeabi-v7a/libmdk.so
+SHA1-Digest: a/E41m7gr9ldscxoWtIisY6cY4w=
+
+Name: lib/armeabi-v7a/libn8x3k7.so
+SHA1-Digest: Pafcj+lP/tJqRvft7Wrun9X6eeQ=
+
+Name: lib/armeabi-v7a/libspake2.so
+SHA1-Digest: F0CZUOo8j+m8Ac83Czv2WJvlnKQ=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: 4YNpkIiZD52N1rzvJFoLoZgpecI=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: ErRUmIiQ4SnBqhYf1FSlGkaVn0M=
+
+Name: res/xml/jshshjkx.xml
+SHA1-Digest: 2EJqNaP+NE2pPlTG6o8T4x5duJU=
+
+Name: resources.arsc
+SHA1-Digest: GzifZNVh1U4SJY6dsGOp/BDCrj8=
+

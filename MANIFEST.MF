@@ -1,0 +1,77 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Android Gradle 8.0.2
+
+Name: AndroidManifest.xml
+SHA1-Digest: 7rj6Thr11KvFzqi8yB/nXwCexGQ=
+
+Name: MitmProxy/burpsuite-ca.crt
+SHA1-Digest: tHs1ruq+1Blj9j/KdN+2M6i5WJ0=
+
+Name: MitmProxy/charles-ssl-proxying.pem
+SHA1-Digest: 7d0Y63OuaMwahMcLmLG1xxdkW88=
+
+Name: MitmProxy/fiddler-root-cert.cer
+SHA1-Digest: YvXHabnodXgvd3MX8dUD2whhHc4=
+
+Name: MitmProxy/mitmproxy-ca-cert.pem
+SHA1-Digest: XPpj/+SbOdbEIfPhzOOgekHTt/0=
+
+Name: SSL-Bypass/pinning
+SHA1-Digest: X2Of7PfUeRQ9h14TrmbFsuwwcIA=
+
+Name: SSL-Bypass/ssl
+SHA1-Digest: lp36Aj+qtjNBiEWwq+vE8PYiwdQ=
+
+Name: assets/protected_by_np/ApkDex2CPro_4dfe2cdc21b3463fa5c4f562d5502
+ 703.txt
+SHA1-Digest: vP2is4UmZfBcufXOdKA+Qgr9LcU=
+
+Name: classes.dex
+SHA1-Digest: CJBbXAfqj44JPqhR0Uw0osJsqV4=
+
+Name: classes2.dex
+SHA1-Digest: zc/uwoeJDmK+O0FHy8Y2L5CP2dk=
+
+Name: lib/arm64-v8a/libconscrypt_jni.so
+SHA1-Digest: p1cgt3451Q6W0ZNiNQnUFspTRqc=
+
+Name: lib/arm64-v8a/libcrashlytics.so
+SHA1-Digest: ZnbmBuLRoCURkCnQ/vZyNskRj9M=
+
+Name: lib/arm64-v8a/libmdk.so
+SHA1-Digest: ZEGQCw3tRWsVuMzp8XLFWY+PBfE=
+
+Name: lib/arm64-v8a/libn8x3k7.so
+SHA1-Digest: 9tnYSQUzwQ2aTi/NJkMQTjbQjEc=
+
+Name: lib/arm64-v8a/libspake2.so
+SHA1-Digest: 8UlAWViuaW4sEP6Si999+CfLlcc=
+
+Name: lib/armeabi-v7a/libconscrypt_jni.so
+SHA1-Digest: vY2/+HFoVmTV95vyihIXPYs4zHY=
+
+Name: lib/armeabi-v7a/libcrashlytics.so
+SHA1-Digest: P+AWpE5aG5XVvTWHzCBuAUf6mho=
+
+Name: lib/armeabi-v7a/libmdk.so
+SHA1-Digest: +6VkDNKym7uUoBreGPFUJpk0Dx8=
+
+Name: lib/armeabi-v7a/libn8x3k7.so
+SHA1-Digest: cwnQM8WHn2rw1ITxTOtXFmkdp38=
+
+Name: lib/armeabi-v7a/libspake2.so
+SHA1-Digest: uQUErYeyytoCki3Ag6ghuBnrhs0=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: pNtNhW5xwy1H8BvfbGZcLPUf9tc=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: XIrEFFqCwQARL2tGyVPA0cb8eLQ=
+
+Name: res/xml/jshshjkx.xml
+SHA1-Digest: +4y/7g8mP98V9jaGlEZ5lFb+SFw=
+
+Name: resources.arsc
+SHA1-Digest: GVKLbUop/LrakkUBkRCdxdK2Xkw=
+
