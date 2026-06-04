@@ -3,75 +3,74 @@ Built-By: Signflinger
 Created-By: Android Gradle 8.0.2
 
 Name: AndroidManifest.xml
-SHA1-Digest: 7rj6Thr11KvFzqi8yB/nXwCexGQ=
+SHA-256-Digest: Cg90QjQK4gdnfPdgtmU7OGtGrCnrjYA+ZjPRbfFSOd8=
 
 Name: MitmProxy/burpsuite-ca.crt
-SHA1-Digest: tHs1ruq+1Blj9j/KdN+2M6i5WJ0=
+SHA-256-Digest: yhJF6IWDLvun989l6o5MsTsLqvhPnsA1haN440JKOns=
 
 Name: MitmProxy/charles-ssl-proxying.pem
-SHA1-Digest: 7d0Y63OuaMwahMcLmLG1xxdkW88=
+SHA-256-Digest: zBKsCh7UHa3DlbwM+Elmay9HgsEWFib/3TvxxlrW32E=
 
 Name: MitmProxy/fiddler-root-cert.cer
-SHA1-Digest: YvXHabnodXgvd3MX8dUD2whhHc4=
+SHA-256-Digest: ZwmrweSVoi6xwqngBm3ijEXhllCcHas4ax2Kf/yD8U0=
 
 Name: MitmProxy/mitmproxy-ca-cert.pem
-SHA1-Digest: XPpj/+SbOdbEIfPhzOOgekHTt/0=
+SHA-256-Digest: kw+VMefFoMUvkeCWEnG0hSiBcmAkv15h0/L6Zfwegm0=
 
 Name: SSL-Bypass/pinning
-SHA1-Digest: X2Of7PfUeRQ9h14TrmbFsuwwcIA=
+SHA-256-Digest: AISigsV41Eiq26sxEwsOy7owLPUHqdocLXVD3A36goM=
 
 Name: SSL-Bypass/ssl
-SHA1-Digest: lp36Aj+qtjNBiEWwq+vE8PYiwdQ=
-
-Name: assets/protected_by_np/ApkDex2CPro_4dfe2cdc21b3463fa5c4f562d5502
- 703.txt
-SHA1-Digest: vP2is4UmZfBcufXOdKA+Qgr9LcU=
+SHA-256-Digest: J/6i2x/ITwsz0THJUMeN2SoMoDUhAS9gjyi/l/3znXs=
 
 Name: classes.dex
-SHA1-Digest: CJBbXAfqj44JPqhR0Uw0osJsqV4=
+SHA-256-Digest: a5bEiQ6MRgtBfzLgzqJGUZS9p6O6Tvs6Rs7ttsEqlek=
 
-Name: classes2.dex
-SHA1-Digest: zc/uwoeJDmK+O0FHy8Y2L5CP2dk=
+Name: lib/arm64-v8a/libDRIR.so
+SHA-256-Digest: byhRBGXeOfXOfmOhQ8vsnjDeDstThc1FJKQh+FYmuIs=
 
 Name: lib/arm64-v8a/libconscrypt_jni.so
-SHA1-Digest: p1cgt3451Q6W0ZNiNQnUFspTRqc=
-
-Name: lib/arm64-v8a/libcrashlytics.so
-SHA1-Digest: ZnbmBuLRoCURkCnQ/vZyNskRj9M=
-
-Name: lib/arm64-v8a/libmdk.so
-SHA1-Digest: ZEGQCw3tRWsVuMzp8XLFWY+PBfE=
+SHA-256-Digest: /VoIDO0TDiwueYLLnIK1YB/ITfYfQRKd0NPs2/LJYVU=
 
 Name: lib/arm64-v8a/libn8x3k7.so
-SHA1-Digest: 9tnYSQUzwQ2aTi/NJkMQTjbQjEc=
+SHA-256-Digest: C3tP1G6KxM/CPvEBrpWswJamrUnmOlPo0ae2xzyTl9U=
 
 Name: lib/arm64-v8a/libspake2.so
-SHA1-Digest: 8UlAWViuaW4sEP6Si999+CfLlcc=
+SHA-256-Digest: LCQ/Gu8U3ttrKJv5E4WNm3JE+3g+WIbDuO8oaiBnfXg=
+
+Name: lib/armeabi-v7a/libDRIR.so
+SHA-256-Digest: FrZOcMHQ7YRUwGNj7l7r7WjebGsmRLWrhPl2Ba6gHOo=
 
 Name: lib/armeabi-v7a/libconscrypt_jni.so
-SHA1-Digest: vY2/+HFoVmTV95vyihIXPYs4zHY=
-
-Name: lib/armeabi-v7a/libcrashlytics.so
-SHA1-Digest: P+AWpE5aG5XVvTWHzCBuAUf6mho=
-
-Name: lib/armeabi-v7a/libmdk.so
-SHA1-Digest: +6VkDNKym7uUoBreGPFUJpk0Dx8=
+SHA-256-Digest: AJ7kQGIBBa3v/4HFr0+v0jrr7/9bjQPXGAISwCmDtTI=
 
 Name: lib/armeabi-v7a/libn8x3k7.so
-SHA1-Digest: cwnQM8WHn2rw1ITxTOtXFmkdp38=
+SHA-256-Digest: EwUyVmJRutaLWv0NZUhZZre8u7EgzZgpsBtd1KT6tdM=
 
 Name: lib/armeabi-v7a/libspake2.so
-SHA1-Digest: uQUErYeyytoCki3Ag6ghuBnrhs0=
+SHA-256-Digest: VeqkaVCHPrXyVpCvtYTp5aUY7lqo9VHpjLuo8hb+804=
 
 Name: res/drawable/ic_launcher.png
-SHA1-Digest: pNtNhW5xwy1H8BvfbGZcLPUf9tc=
+SHA-256-Digest: zoqY58iq9gQzLnuGo/3sNJKtdv8ZuEOTgtcPe3aet7A=
 
 Name: res/layout/activity_main.xml
-SHA1-Digest: XIrEFFqCwQARL2tGyVPA0cb8eLQ=
+SHA-256-Digest: lPuNslNziNQ3y6C0YilRsizj98g8DaKLlte9lzN3Yxk=
 
-Name: res/xml/jshshjkx.xml
-SHA1-Digest: +4y/7g8mP98V9jaGlEZ5lFb+SFw=
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: zoqY58iq9gQzLnuGo/3sNJKtdv8ZuEOTgtcPe3aet7A=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: zoqY58iq9gQzLnuGo/3sNJKtdv8ZuEOTgtcPe3aet7A=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: zoqY58iq9gQzLnuGo/3sNJKtdv8ZuEOTgtcPe3aet7A=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: zoqY58iq9gQzLnuGo/3sNJKtdv8ZuEOTgtcPe3aet7A=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA-256-Digest: zoqY58iq9gQzLnuGo/3sNJKtdv8ZuEOTgtcPe3aet7A=
 
 Name: resources.arsc
-SHA1-Digest: GVKLbUop/LrakkUBkRCdxdK2Xkw=
+SHA-256-Digest: VDNijtKZj/AwHXh0QtArxhyd/Kz1CPzwelKCtojcUlQ=
 
